@@ -329,11 +329,7 @@ json
 ```
 
 
-
-
-#### 怎么设计 Prompt 
-
-#### 首先先了解 什么是 Prompt Engineering？
+#### 怎么设计 Prompt ? 首先先了解 什么是 Prompt Engineering？
 解释这个词之前，首先需要解释 prompt 这个词。   
 
 简单的理解它是给 AI 模型的指令。   
