@@ -308,7 +308,7 @@ Time spent on data requests:  122.65602660179138s
 
 以下是我对候选人代码的最终评价结果（包含中文版本和英文版本）：
 
-```json
+json
 {
     "cn": {
         "解题思路": 10,
@@ -325,7 +325,7 @@ Time spent on data requests:  122.65602660179138s
         "Summary": "The candidate's code performs excellently in all dimensions. Their code is not only functionally correct, but also well-designed, high-quality, and without redundancy. Therefore, I give them a very high overall score."
     }
 }
-```
+
 ```
 
 
